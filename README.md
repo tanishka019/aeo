@@ -1,6 +1,6 @@
-# Citely — AI Search Visibility Agency
+# GetFound — AI Search Visibility Agency
 
-A high-converting, mobile-first landing page and authority blog built in Next.js (App Router), TypeScript, and Tailwind CSS for an Indian agency helping businesses get found on Google and recommended by AI assistants (ChatGPT, Google Gemini, and Perplexity).
+A high-converting, mobile-first landing page and authority blog built in Next.js (App Router), TypeScript, and Tailwind CSS for an agency helping businesses get found on Google and recommended by AI assistants (ChatGPT, Google Gemini, and Perplexity).
 
 ---
 
@@ -8,7 +8,7 @@ A high-converting, mobile-first landing page and authority blog built in Next.js
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-org/aeo.git
+   git clone https://github.com/tanishka019/aeo.git
    cd aeo
    ```
 2. **Install dependencies:**
@@ -37,7 +37,7 @@ A high-converting, mobile-first landing page and authority blog built in Next.js
 
 The entire brand identity and copy are centralized to enable instant updates without modifying UI components:
 
-* **Brand Configuration (`/config/brand.ts`):** Controls brand name (default: **Citely**), legal entity, short meanings, 5 shortlisted candidate names with trademark & domain notes, hex color palette, typography tokens, and WhatsApp routing number.
+* **Brand Configuration (`/config/brand.ts`):** Controls brand name (default: **GetFound**), legal entity, short meanings, 5 shortlisted candidate names with trademark & domain notes, hex color palette, typography tokens, and WhatsApp routing number.
 * **Copy Configuration (`/config/content.ts`):** Houses all headlines, subheads, FAQ items, and check flow strings. Follows Indian English, short sentences, zero jargon above the fold, no prices on the page, and no guaranteed rankings.
 
 ---
